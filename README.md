@@ -1,6 +1,6 @@
-#Sobre Mim,
-  abrirei uma destribuidora de inteorpecentes.
-  Te vejo lá!!!
+#Sobre Mim
+ - abrirei uma destribuidora de inteorpecentes.
+ -             Te vejo lá!!!
 - 🤒 Hi, I’m @Corango
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
