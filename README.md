@@ -2,7 +2,7 @@
  - abrirei uma destribuidora de inteorpecentes.
  -             Te vejo lá!!!
 - 🤒 Hi, I’m @Corango
-- 👀 I’m interested in halls!!!
+- 👀 I’m interested in Halls!!!
 
 
 <!---
